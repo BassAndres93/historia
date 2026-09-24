@@ -6,7 +6,7 @@
     <title>Para ti ♥</title>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <style>
-        :root {
+        :root { 
             --bg-color: #f7f1eb;
             --card-bg: #fffdfa;
             --accent-color: #a3485e;
