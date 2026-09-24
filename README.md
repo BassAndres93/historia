@@ -9,7 +9,7 @@
         :root { 
             --bg-color: #f7f1eb;
             --card-bg: #fffdfa;
-            --accent-color: #a3485e;
+            --accent-color: #a3485e; 
             --accent-hover: #8f3e52;
             --text-color: #4a443f;
             --subtext-color: #8c827a;
